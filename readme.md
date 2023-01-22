@@ -9,7 +9,7 @@ Learning while HOPING & HUSTLING!!!
 🌱 Focussing on learning Node js backend and looking forword to contribute in projects
 ⭐ All of my projects are available at Portfolio
 💬 Ask me about MongoDB , React, Java Script
-✍️ Reach me at mohit.indoriyaa@gmail.com
+✍️ Reach me at asisodiya9045@gmail.com
 📄 Know more about me Resume
 linkedIn Linkedin
 🛠  Tech Stack
