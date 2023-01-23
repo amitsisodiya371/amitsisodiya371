@@ -46,13 +46,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="60" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/> </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="60" height="40"/> </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="60" height="40"/> </a>
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="40"/> </a> 
+         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="60" height="40"/> </a>
 
   
 <br>
@@ -62,13 +62,13 @@
 
 <p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=amitsisodiya371&show_icons=true&locale=en&theme=tokyonight" alt="amitsisodiya371" /></p>
 
-<p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsisodiya371&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="amitsisodiya371" />
-</p>
+<!-- <p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsisodiya371&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="amitsisodiya371" />
+</p> -->
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <p align="center"><img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=amitsisodiya371&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="amitsisodiya371" />
-<br/>
+<br/> -->
 <br/>
 
 
