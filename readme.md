@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 <a href="#"><img width="100%"  src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" height="auto"/></a>
@@ -79,3 +80,29 @@
     <img src="https://komarev.com/ghpvc/?username=anshika1297">
 </a>
 <a href="https://github.com/anshika1297?tab=followers"><img src="https://img.shields.io/github/followers/anshika1297?label=Followers&style=social" alt="GitHub Badge"></a>
+=======
+Hey , I'm Amit Sisodiya 👋
+This is ME, Amit Sisodiya, a Masai School certified Full stack developer
+A budding Full-Stack Software Developer and a Competitive Programming Enthusiast 
+ ,
+who is obsessed with the idea of improving himself and wants a platform to grow and excel 
+ .
+Learning while HOPING & HUSTLING!!!
+
+🌱 Focussing on learning Node js backend and looking forword to contribute in projects
+⭐ All of my projects are available at Portfolio
+💬 Ask me about MongoDB , React, Java Script
+✍️ Reach me at asisodiya9045@gmail.com
+📄 Know more about me Resume
+linkedIn Linkedin
+🛠  Tech Stack
+Typing SVG
+
+React HTML5 CSS3 Redux Node.js Express MongoDB Git npm Visual Studio Code
+My Statistics
+
+ 
+
+
+Amit Sisodiya's Activity Graph
+>>>>>>> a564dd0be4bb32d55c8ebc266560a7ac63cc9fd3
