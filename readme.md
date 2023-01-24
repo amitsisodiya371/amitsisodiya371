@@ -53,9 +53,10 @@
 
 <!-- <p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsisodiya371&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="amitsisodiya371" />
 </p> -->
+<p dir="auto">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://camo.githubusercontent.com/13d19fd……696e743…" alt="Amit Sisodiya's Activity Graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=MohitIndoriya&bg_color=1b1c1d&color=898ed7&line=7b7fe5&point=001eff&area=true&hide_border=true" style="max-width: 100%;">
-</a>
+</a></p>
 
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
