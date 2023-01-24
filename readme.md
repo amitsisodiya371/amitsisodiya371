@@ -1,16 +1,7 @@
 
-
-<!-- <a href="#"><img width="100%"  src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" height="auto"/></a> -->
-
-
-
-
 <h1 align="center">Hi 👋, I'm Amit Sisodiya</h1>
-<h3 align="center">A passionate Web Developer</h3>
 
-#### Recent graduate with a Masters degree in Computer Applications and a passion for web development. With expertise in HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
-
-<!-- ## About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="amitsisdoiya371" /> </p> -->
+#### This is ME, Amit Sisodiya, Recent graduate with a Masters degree in Computer Applications and a passion for web development. With expertise in HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
 
 🌱 **I’m currently learning :** MERN Stack Development (React and Node.js)
 
@@ -22,9 +13,7 @@
 
 
 
-
-
-- See My Projects [Portfolio](https://github.com/amitsisodiya371)
+- All of my projects are available at [Portfolio](https://github.com/amitsisodiya371)
 
 - 🌱 I’m currently learning **React**
 
@@ -32,7 +21,7 @@
 
 - 📫 How to reach me **asisodiya9045@gmail.com**
 
-- 📄 My Experience [Resume](https://drive.google.com/file/d/1HcqdHSnrpWHOEw8X3Q4-8FbNjxsqVkHk/view?usp=sharing)
+- 📄  Know more about me [Resume](https://drive.google.com/file/d/1HcqdHSnrpWHOEw8X3Q4-8FbNjxsqVkHk/view?usp=sharing)
 
 
 ## Connect with me:
@@ -64,6 +53,9 @@
 
 <!-- <p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsisodiya371&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="amitsisodiya371" />
 </p> -->
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
+<img src="https://camo.githubusercontent.com/13d19fd……696e743…" alt="Amit Sisodiya's Activity Graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=MohitIndoriya&bg_color=1b1c1d&color=898ed7&line=7b7fe5&point=001eff&area=true&hide_border=true" style="max-width: 100%;">
+<!-- </a> -->
 
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
