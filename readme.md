@@ -12,7 +12,6 @@
 🥅 **2022 Goals :** Learning new things and contribute more
 
 
-
 - All of my projects are available at [Portfolio](https://github.com/amitsisodiya371)
 
 - 🌱 I’m currently learning **React**
