@@ -59,13 +59,6 @@
  data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=amitsisodiya371&bg_color=1b1c1d&color=898ed7&line=7b7fe5&point=001eff&area=true&hide_border=true" style="max-width: 100%;">
 </a></p>
 
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br>
-<p align="center"><img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=amitsisodiya371&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="amitsisodiya371" />
-<br/> -->
-<br/>
-
-
 
 ## ❤ Views and Followers
 
