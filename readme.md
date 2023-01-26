@@ -50,18 +50,11 @@
 
 <p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=amitsisodiya371&show_icons=true&locale=en&theme=tokyonight" alt="amitsisodiya371" /></p>
 
-<!-- <p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsisodiya371&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="amitsisodiya371" />
-</p> -->
-<!-- <p dir="auto">
-<a href="https://github.com/amitsisodiya371/github-readme-activity-graph">
-<img src="https://camo.githubusercontent.com/13d19fdda6e8d86205271dd1b78dc1095469493e5ef7532f4b55baec42a21750/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d4d6f686974496e646f726979612662675f636f6c6f723d31623163316426636f6c6f723d383938656437266c696e653d37623766653526706f696e743d30303165666626617265613d7472756526686964655f626f726465723d747275" alt="Amit Sisodiya's Activity Graph" 
- data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=amitsisodiya371&bg_color=1b1c1d&color=898ed7&line=7b7fe5&point=001eff&area=true&hide_border=true" style="max-width: 100%;">
-</a></p> -->
 <div class="graph-1">
-                    <p align="center"><a href="https://github.com/amitsisodiya371"><img align="center"
-                                    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsisodiya371&amp;theme=dracula&amp;bg_color=0D1117"/></a>
-                    </p>
-                </div>
+  <p align="center"><a href="https://github.com/amitsisodiya371"><img align="center" width="90%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsisodiya371&amp;theme=dracula&amp;bg_color=0D1117"/></a>
+  </p>
+</div>
 
 
 ## ❤ Views and Followers
