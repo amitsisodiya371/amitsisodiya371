@@ -12,8 +12,7 @@
 🥅 **2022 Goals :** Learning new things and contribute more
 
 
-- All of my projects are available at [Portfolio](https://amitsisodiya371.github.io)
-
+- All of my projects are available at [Portfolio](<a href ="https://amitsisodiya371.github.io"></a>)
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java,Web Development, Javascript**
@@ -26,7 +25,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
+<a href = "https://amitsisodiya371.github.io"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "linkedin.com/in/amit-sisodiya-a9b488205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/amitSis99328470"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
