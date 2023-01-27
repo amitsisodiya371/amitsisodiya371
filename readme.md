@@ -12,7 +12,7 @@
 🥅 **2022 Goals :** Learning new things and contribute more
 
 
-- All of my projects are available at [Portfolio]"a[href*='amitsisodiya371.github.io/']"   
+- All of my projects are available at [Portfolio]("a[href*='amitsisodiya371.github.io/']")   
 - 🌱 I’m currently learning **React**
  
 - 💬 Ask me about **Java,Web Development, Javascript**
