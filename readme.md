@@ -28,8 +28,6 @@
 <a href='https://amitsisodiya371.github.io/'><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "linkedin.com/in/amit-sisodiya-a9b488205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/amitSis99328470"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,7 +52,6 @@
      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsisodiya371&amp;theme=dracula&amp;bg_color=0D1117"/></a>
   </p>
 </div>
-
 
 ## ❤ Views and Followers
 
