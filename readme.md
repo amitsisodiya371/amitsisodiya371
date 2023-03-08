@@ -25,7 +25,7 @@
 
 <p align="left">
 <a href='https://amitsisodiya371.github.io/'><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
-<a href = "linkedin.com/in/amit-sisodiya-a9b488205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "linkedin.com/in/amit-sisodiya-a9b488205"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/amitSis99328470"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
@@ -37,6 +37,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="80" height="40"/> </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="80" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="80" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://amitsisodiya371.github.io/static/media/mongodb.4273f571ccecac3575d5.ico" alt="react" width="80" height="40"/> </a>
 
   
 <br>
