@@ -25,7 +25,7 @@
 
 <p align="left">
 <a href='https://amitsisodiya371.github.io/'><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
-<a href = "linkedin.com/in/amit-sisodiya-a9b488205"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/amit-sisodiya-a9b488205"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/amitSis99328470"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
