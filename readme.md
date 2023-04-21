@@ -55,7 +55,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/amitsisodiya371/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=amitsisdoiya371">
 </a>
 <a href="https://github.com/amitsisodiya371?tab=followers"><img src="https://img.shields.io/github/followers/amitsisodiya371?label=Followers&style=social" alt="GitHub Badge"></a>
