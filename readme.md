@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **asisodiya9045@gmail.com**
 
-- 📄  Know more about me [Resume](https://drive.google.com/file/d/1eZ9AwUf6K5H50hstyh_S47H_3cuAvsBr/view?usp=sharing)
+- 📄  Know more about me [Resume](https://drive.google.com/file/d/18CIhT9q1gf_auxe9l_8nal6_Seav1twf/view?usp=sharing)
 
 
 ## Connect with me:
